@@ -17,3 +17,19 @@ i'm an undergrad student who's passionate about the field of Computer Science, i
 ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=powershell&color=blueviolet)
 
 
+<h1 align="center">Github Stats</h1>
+<a href="https://github.com/Soulless-404/Soulless-404">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soulless-404&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Soulless's GitHub Stats" />
+</a>
+
+
+<h1 align="center">You can find me on</h1>
+
+<a href="https://steamcommunity.com/profiles/76561198206495973/"><img src="https://img.icons8.com/fluent/96/000000/steam.png"/></a>
+<a href="https://www.instagram.com/real_muthafuckin_mishra/"><img src="https://img.icons8.com/cute-clipart/128/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/rahulmishra108"><img src="https://img.icons8.com/fluent/96/000000/twitter.png"/></a>
+<a href=""><img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png"/> Soulless#2521</a>
+
+<h1 align="center">Join My server</h1>
+
+<iframe src="https://discordapp.com/widget?id=743861236072185916&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

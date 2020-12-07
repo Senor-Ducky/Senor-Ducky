@@ -30,6 +30,5 @@ i'm an undergrad student who's passionate about the field of Computer Science, i
 <a href="https://twitter.com/rahulmishra108"><img src="https://img.icons8.com/fluent/96/000000/twitter.png"/></a>
 <a href=""><img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png"/> Soulless#2521</a>
 
-<h1 align="center">Join My server</h1>
+              -------------------------------------------------------------------------------------------------------------------------------------------
 
-<iframe src="https://discordapp.com/widget?id=743861236072185916&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

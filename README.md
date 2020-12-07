@@ -3,5 +3,6 @@
 i'm an undergrad student who's passionate about the field of Computer Science, i'm into gaming and making memes in my free time.
 
 <h1 align="center"> :toolbox: Technologies </h1>
+
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&color=blueviolet)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+

@@ -18,7 +18,7 @@ i'm an undergrad student who's passionate about the field of Computer Science, i
 
 
 <h1 align="center">Github Stats</h1>
-<a href="https://github.com/Supreme-Watermelon">
+<a href="https://github.com/Mael-Radec">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Supreme-Watermelon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Supreme's GitHub Stats" />
 </a>
 

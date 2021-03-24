@@ -28,7 +28,7 @@ i'm an undergrad student who's passionate about the field of Computer Science, i
 <a href="https://steamcommunity.com/profiles/76561198206495973/"><img src="https://img.icons8.com/fluent/96/000000/steam.png"/></a>
 <a href="https://www.instagram.com/real_muthafuckin_mishra/"><img src="https://img.icons8.com/cute-clipart/128/000000/instagram-new.png"/></a>
 <a href="https://twitter.com/rahulmishra108"><img src="https://img.icons8.com/fluent/96/000000/twitter.png"/></a>
-<a href=""><img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png"/> Soulless#2521</a>
+<a href=""><img src="https://img.icons8.com/cute-clipart/128/000000/discord-new-logo.png"/> señor Ducky#2521</a>
 
               -------------------------------------------------------------------------------------------------------------------------------------------
 

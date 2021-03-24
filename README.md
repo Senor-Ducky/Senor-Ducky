@@ -1,5 +1,5 @@
-![Header](https://github.com/Soulless-404/Soulless-404/blob/main/logo.jpg)
-<h1 align="center">Hi i'm Soulless</h1>
+
+<h1 align="center">Hi i'm Senor-Ducky</h1>
 i'm an undergrad student who's passionate about the field of Computer Science, i'm into gaming and making memes in my free time.
 
 <h1 align="center"> :toolbox: Technologies </h1>
@@ -18,8 +18,8 @@ i'm an undergrad student who's passionate about the field of Computer Science, i
 
 
 <h1 align="center">Github Stats</h1>
-<a href="https://github.com/Mael-Radec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Supreme-Watermelon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Supreme's GitHub Stats" />
+<a href="https://github.com/Senor-Ducky">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Senor-Ducky&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Supreme's GitHub Stats" />
 </a>
 
 

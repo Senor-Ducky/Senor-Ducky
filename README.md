@@ -2,6 +2,8 @@
 <h1 align="center">Hi i'm Senor-Ducky</h1>
 i'm an undergrad student who's passionate about the field of Computer Science, i'm into gaming and making memes in my free time.
 
+My website: rahul-mishra-portfolio.netlify.app
+
 <h1 align="center"> :toolbox: Technologies </h1>
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&color=blueviolet)

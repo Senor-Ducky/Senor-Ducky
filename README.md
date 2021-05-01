@@ -2,7 +2,7 @@
 <h1 align="center">Hi i'm Senor-Ducky</h1>
 i'm an undergrad student who's passionate about the field of Computer Science, i'm into gaming and making memes in my free time.
 
-My website: rahul-mishra-portfolio.netlify.app
+My website: https://app.netlify.com/sites/rahul-mishra-portfolio/settings/general
 
 <h1 align="center"> :toolbox: Technologies </h1>
 

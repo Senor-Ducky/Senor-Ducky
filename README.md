@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senor-ducky" alt="senor-ducky" /></a> </p>
 
-- 🔭 I’m currently working on [Polymorphic Bot](https://github.com/Senor-Ducky/Polymorphic-bot)
+- 🔭 I’m currently working on [roBOT](https://github.com/Senor-Ducky/roBOT)
 
 - 🌱 I’m currently learning **The Odin project, API's, Problem Solving and DSA**
 

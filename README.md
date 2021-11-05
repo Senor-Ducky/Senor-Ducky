@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doomer-programmer" alt="senor-ducky" /></a> </p>
 
-- 🔭 I’m currently working on [roBOT](https://github.com/Senor-Ducky/roBOT)
+- 🔭 I’m currently working on Blockchain Technologies
 
 - 🌱 I’m currently learning **The Odin project, API's, Problem Solving and DSA**
 

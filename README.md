@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Mishra</h1>
 <h3 align="center">Just a dude who likes to learn and write programs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senor-ducky&label=Profile%20views&color=0e75b6&style=flat" alt="senor-ducky" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doomer-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="doomer-programmer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senor-ducky" alt="senor-ducky" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doomer-programmer" alt="senor-ducky" /></a> </p>
 
 - 🔭 I’m currently working on [roBOT](https://github.com/Senor-Ducky/roBOT)
 

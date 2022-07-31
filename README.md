@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Senor-Ducky" alt="Senor-Ducky" /></a> </p>
 
-- 🔭 I’m currently working on Blockchain Technologies
+- 🔭 I’m currently working on Flutter Projects
 
-- 🌱 I’m currently learning **The Odin project, API's, Problem Solving and DSA**
+- 🌱 I’m currently learning **Flutter BLoC pattern and state management, Problem Solving and DSA**
 
 - 👯 I’m looking to collaborate on [-](-)
 

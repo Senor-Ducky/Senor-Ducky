@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Flutter Projects
 
-- 🌱 I’m currently learning **Flutter BLoC pattern and state management, Problem Solving and DSA**
+- 🌱 I’m currently learning **Backend Technologies, Java , Problem Solving and DSA**
 
 - 👯 I’m looking to collaborate on [-](-)
 

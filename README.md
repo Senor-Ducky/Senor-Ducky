@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Senor-Ducky" alt="Senor-Ducky" /></a> </p>
 
-- 🔭 I’m currently working on Back-End Projects
-
-- 🌱 I’m currently learning **Google Associate Cloud Engineer Certification Program, Backend Technologies, Java , Problem Solving and DSA**
+- 🔭 I’m currently working at [Blockdog](https://blockdog.xyz/)
 
 - 👯 I’m looking to collaborate on [-](-)
 
@@ -17,7 +15,7 @@
 
 - 📝 I regularly write articles on [Coming soon....](Coming soon....)
 
-- 💬 Ask me about **C, C++, Java, Python, React, Flask, Flutter**
+- 💬 Ask me about **C, C++, Javascript, Python, React, Flask, Next.js**
 
 - 📫 How to reach me **robom460@gmail.com**
 

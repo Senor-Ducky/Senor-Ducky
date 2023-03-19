@@ -5,27 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Senor-Ducky" alt="Senor-Ducky" /></a> </p>
 
-- 🔭 I’m currently working at [Blockdog](https://blockdog.xyz/)
-
-- 👯 I’m looking to collaborate on [-](-)
-
-- 🤝 I’m looking for help with [-](-)
-
-- 👨‍💻 All of my projects are available at [http://www.rahulmishradev.xyz/](http://www.rahulmishradev.xyz/)
-
-- 📝 I regularly write articles on [Coming soon....](Coming soon....)
-
-- 💬 Ask me about **C, C++, Javascript, Python, React, Flask, Next.js**
-
-- 📫 How to reach me **robom460@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YdguiQ5X26GWV114euGsKB7UkstonIY7/view?usp=sharing](https://drive.google.com/file/d/1YdguiQ5X26GWV114euGsKB7UkstonIY7/view?usp=sharing)
-
-- ⚡ Fun fact **nothing fun about me!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/senor-ducky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="senor-ducky" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul mishra" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/senor-ducky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="senor-ducky" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/senor-ducky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="senor-ducky" height="30" width="40" /></a>
